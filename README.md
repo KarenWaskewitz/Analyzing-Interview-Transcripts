@@ -15,4 +15,4 @@
 
 
 ---
-This project is part of a [link text] (https://github.com/Code-Maven/wis-python-course-2025-03) Python Course at Weizmann Institute
+This project is part of a [Python Course](https://github.com/Code-Maven/wis-python-course-2025-03) at Weizmann Institute
