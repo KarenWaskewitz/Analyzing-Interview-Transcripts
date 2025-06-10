@@ -1,5 +1,5 @@
 ## Analyzing-Interview-Transcripts
-# Or: How to deal with big amounts of qualitative data?
+### Or: How to deal with big amounts of qualitative data?
 ---
 **Project Description**
 - I have the transcripts of several 90min interviews with students
