@@ -1,1 +1,9 @@
-# Analyzing-Interview-Transcripts
+## Analyzing-Interview-Transcripts
+---
+**Project Description**
+- I have the transcripts of 90min interviews with students
+- Not all the parts of the interview are relevant
+- I want to identify the parts when students explain the given phenomena
+- These explanations should be categorized into what we call "narrative mode" or "scientific mode"
+- There a certain language features that indicate which "mode" the student is in
+- In the end it would be valuable to know how long they are in each mode and how many switches occur
