@@ -1,7 +1,8 @@
 ## Analyzing-Interview-Transcripts
+# Or: How to deal with big amounts of qualitative data?
 ---
 **Project Description**
-- I have the transcripts of 90min interviews with students
+- I have the transcripts of several 90min interviews with students
 - Not all the parts of the interview are relevant
 - I want to identify the parts when students explain the given phenomena
 - These explanations should be categorized into what we call "narrative mode" or "scientific mode"
