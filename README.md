@@ -15,8 +15,9 @@
 
  
 <Technical Aspects>
-+ Right now transcrips appear in an excel file, maybe I have to transfer everything to a text file
-+ 
+- Right now transcrips appear in an excel file, maybe I have to transfer everything to a text file
+
+
 
 ---
 This project is part of a [Python Course](https://github.com/Code-Maven/wis-python-course-2025-03) at Weizmann Institute
