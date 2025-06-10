@@ -14,7 +14,7 @@
  3. The data are confidential (because the interviews are with minors) so I cannot upload them in a public space
 
  
-<Technical Aspects>
+:memo: **Technical Aspects**
 - Right now transcrips appear in an excel file, maybe I have to transfer everything to a text file
 
 
