@@ -20,11 +20,11 @@ In this exploratory study students were interviewed about the causes and effects
 
 *Language Features for the two modes of thought*
 
-| Narrative Mode         | Scientific Mode                     |
-| ---------------------- | ----------------------------------- |
-|Agent with intention    | Entity interacting with environment |
-Example: "The bacteria     Example: "The bacteria process food waste
-eats food
+| Narrative Mode         | Example                             | Scientific Mode               | Example                |
+| ---------------------- | ----------------------------------- |------------------------------ |----------------------- |
+|Agent with intention    | "The bacteria eats food" | Entity interacting with environment |"The bacteria process food waste|
+  
+
 
  *Data Source*
  1. The transcript contains dialogues between a pair of students and the interviews of the group with the researcher.
