@@ -11,8 +11,8 @@
 
 *Theoretical Background*
 
-1. The narrative mode is active when individuals interpret events around them using a story-like pattern, in which characters and their actions shape the unfolding plot. It is characterized by agents that act in accordance with their intentions or motivation. If applied in a scientific context, misconception may arise. A common example among students is to say: "The plant needs  more light, so it grows towards the light". In this case the "need" of the plant (reflecting intention or motivation) is seen as the cause of the plant to grow towards the light, which is not scientific.
-2. The scientific mode in comparison is based on empirical evidence. It is also reflected in what we know today as the scientific method. It is based on formal logical reasoning, where hypothesis are tested and accepted or rejected. 
+1. The narrative mode is active when individuals interpret events around them using a story-like pattern, in which characters and their actions shape the unfolding plot. It is characterized by agents that act in accordance with their intentions or motivation. If applied in a scientific context, misconception may arise. A Student in our interview said for example: "The bacteria eat the food, because they need food." The need for food is a human experience that was used to interpret an experiment that the students were conducting. 
+2. The scientific mode in comparison is based on on formal logical reasoning. It is also reflected in what we know today as the scientific method, where hypothesis are tested and accepted or rejected. It is applied when constructing arguments or theories. A student in the scientific mode would say "The bacteria process the food waste."
 
 *Method*
 
