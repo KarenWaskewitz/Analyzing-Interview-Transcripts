@@ -26,10 +26,9 @@ In this exploratory study students were interviewed about the causes and effects
 |Verbs| Action Verbs "The gases opened a hole in the atmosphere" | Verbs related to processes and interactions "Substances break down in water" |
 |Tense| Past Tense "The gases left the garbage pile" | Present Tense "The garbage pile releases gases." |
 |Pronouns & Voice | Personal Pronouns, Active Voice "We destroyed their homes" | Impersonal, Passive Voice "Their habitat was destroyed." |
-|Structure | story-like: beginning, middle, end | mechanistic: set-up, interaction between entities, final state |
-| Metaphors | Based on embodied Experiences "It's like when we drink cola, we don't need the gas. So the bacteria doesn't need the gas and it gets out."| Structural metaphors "The light is reflected back by the greenhouse gases like a mirror."| 
+|Structure | story-like: beginning, middle, end "Somebody throws away food, then the bacteria eat is, the gases get out and go up. They make a hole in the atmosphere and more light gets to the pole and then the polar bears die." | mechanistic: set-up, interaction between entities, final state "People throw away food. It ends up on landfills. Bacteria break down the food waste and release methane. Methane is a greehhouse gas and leads to increasing temperatures which is why the glaciers melt and the polar bears loose their habitat."|
+| Metaphors | Based on embodied experiences "It's like when we drink cola, we don't need the gas. So the bacteria doesn't need the gas and it gets out."| Structural metaphors "The light is reflected back by the greenhouse gases like a mirror."| 
 
-  
 
 
  *Data Source*
