@@ -22,7 +22,7 @@ In this exploratory study students were interviewed about the causes and effects
 
 | Feature | Narrative Mode                              | Scientific Mode               | 
 | ---------------------- | ----------------------------------- |------------------------------ |
-|Agents/characters    | Agents with intention "The bacteria eats food", "We destroy the home of the polar bears" | Entity interacting with environment or processes without human intention "The bacteria process food waste" | 
+|Agents/characters    | Agents with intention "The bacteria eats food" | Entity interacting with environment or processes without human intention "The bacteria process food waste" | 
 |Verbs| Action Verbs "The gases opened a hole in the atmosphere" | Verbs related to processes and interactions "Substances break down in water" |
 |Tense| Past Tense "The gases left the garbage pile" | Present Tense "The garbage pile releases gases." |
 |Pronouns & Voice | Personal Pronouns, Active Voice "We destroyed their homes" | Impersonal, Passive Voice "Their habitat was destroyed." |
