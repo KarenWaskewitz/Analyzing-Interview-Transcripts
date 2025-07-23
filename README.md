@@ -22,8 +22,9 @@ In this exploratory study students were interviewed about the causes and effects
 
 | Narrative Mode         | Example                             | Scientific Mode               | Example                |
 | ---------------------- | ----------------------------------- |------------------------------ |----------------------- |
-|Agent with intention    | "The bacteria eats food" | Entity interacting with environment |"The bacteria process food waste"|
-|Metaphors based on embodied experiences|"It's like when we drink cola, we don't need the gas. So the bacteria doesn't need the gas."| Metaphors based on analogy |
+|Agent with intention    | "The bacteria eats food", "We destroy the home of the polar bears" | Entity interacting with environment |"The bacteria process food waste", "Their habitat is destroyed"|
+|Metaphors based on embodied experiences|"It's like when we drink cola, we don't need the gas. So the bacteria doesn't need the gas."| Learned metaphors based on analogy | "The light is reflected back by the greenhouse gases like a mirror." |
+
   
 
 
