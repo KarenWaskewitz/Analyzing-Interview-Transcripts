@@ -27,7 +27,7 @@ In this exploratory study students were interviewed about the causes and effects
 |Tense| Past Tense "The gases left the garbage pile" | Present Tense "The garbage pile releases gases." |
 |Pronouns & Voice | Personal Pronouns, Active Voice "We destroyed their homes" | Impersonal, Passive Voice "Their habitat was destroyed." |
 |Structure | story-like: beginning, middle, end | mechanistic: set-up, interaction between entities, final state |
-| Metaphors Embodied experiences|"It's like when we drink cola, we don't need the gas. So the bacteria doesn't need the gas."| Learned metaphors based on analogy | "The light is reflected back by the greenhouse gases like a mirror." |
+| Metaphors | Based on embodied Experiences "It's like when we drink cola, we don't need the gas. So the bacteria doesn't need the gas and it gets out."| Structural metaphors "The light is reflected back by the greenhouse gases like a mirror."| 
 
   
 
