@@ -20,10 +20,14 @@ In this exploratory study students were interviewed about the causes and effects
 
 *Language Features for the two modes of thought*
 
-| Narrative Mode         | Example                             | Scientific Mode               | Example                |
-| ---------------------- | ----------------------------------- |------------------------------ |----------------------- |
-|Agent with intention    | "The bacteria eats food", "We destroy the home of the polar bears" | Entity interacting with environment |"The bacteria process food waste", "Their habitat is destroyed"|
-|Metaphors based on embodied experiences|"It's like when we drink cola, we don't need the gas. So the bacteria doesn't need the gas."| Learned metaphors based on analogy | "The light is reflected back by the greenhouse gases like a mirror." |
+| Feature | Narrative Mode                              | Scientific Mode               | 
+| ---------------------- | ----------------------------------- |------------------------------ |
+|Agents/characters    | Agents with intention, "The bacteria eats food", "We destroy the home of the polar bears" | Entity interacting with environment "The bacteria process food waste" | 
+|Verbs| | |
+|Tense|| |
+|Pronouns | | |
+|Structure | | |
+| Metaphors Embodied experiences|"It's like when we drink cola, we don't need the gas. So the bacteria doesn't need the gas."| Learned metaphors based on analogy | "The light is reflected back by the greenhouse gases like a mirror." |
 
   
 
