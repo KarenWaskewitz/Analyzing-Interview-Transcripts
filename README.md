@@ -16,7 +16,7 @@
 
 *Method*
 
-In this exploratory study students were interviewed about the causes and effects of food waste. At each step of the activity they got more information and were asked to integrate this information into their explanations and their drawings. After each step the interviewer asked them about their drawings and their explanations. 
+In this exploratory study students were interviewed about the causes and effects of food waste. At each step of the activity they got more information and were asked to integrate this information into their explanations and their drawings. After each step the interviewer asked them about their drawings and their explanations. The aim was to see students pre-concepts, their thinking patterns and the way they explain causal relations.
 
  *Data Source*
  1. The transcript contains dialogues between a pair of students and the interviews of the group with the researcher.
