@@ -11,12 +11,18 @@
 
 *Theoretical Background*
 
-1. The narrative mode is active when individuals interpret events around them using a story-like pattern, in which characters and their actions shape the unfolding plot. It is characterized by agents that act in accordance with their intentions or motivation. If applied in a scientific context, misconception may arise. A Student in our interview said for example: "The bacteria eat the food, because they need food." The need for food is a human experience that was used to interpret an experiment that the students were conducting. 
-2. The scientific mode in comparison is based on on formal logical reasoning. It is also reflected in what we know today as the scientific method, where hypothesis are tested and accepted or rejected. It is applied when constructing arguments or theories. A student in the scientific mode would say "The bacteria process the food waste."
+1. **The narrative mode** is active when individuals interpret events around them using a story-like pattern, in which characters and their actions shape the unfolding plot. It is characterized by agents that act in accordance with their intentions or motivation. If applied in a scientific context, misconception may arise. A Student in our interview said for example: "The bacteria eat the food, because they need food." The need for food is a human experience that was used to interpret an experiment that the students were conducting. 
+2. **The scientific mode** in comparison is based on on formal logical reasoning. It is also reflected in what we know today as the scientific method, where hypothesis are tested and accepted or rejected. It is applied when constructing arguments or theories. A student in the scientific mode would say "The bacteria process the food waste."
 
 *Method*
 
 In this exploratory study students were interviewed about the causes and effects of food waste. At each step of the activity they got more information and were asked to integrate this information into their explanations and their drawings. After each step the interviewer asked them about their drawings and their explanations. The aim was to see students pre-concepts, their thinking patterns and the way they explain causal relations.
+
+*Language Features for the two modes of thought*
+
+| Narrative Mode         | Scientific Mode                     |
+| ---------------------- | ----------------------------------- |
+|Agent with intention    | Entity interacting with environment |
 
  *Data Source*
  1. The transcript contains dialogues between a pair of students and the interviews of the group with the researcher.
