@@ -23,6 +23,8 @@ In this exploratory study students were interviewed about the causes and effects
 | Narrative Mode         | Scientific Mode                     |
 | ---------------------- | ----------------------------------- |
 |Agent with intention    | Entity interacting with environment |
+Example: "The bacteria     Example: "The bacteria process food waste
+eats food
 
  *Data Source*
  1. The transcript contains dialogues between a pair of students and the interviews of the group with the researcher.
