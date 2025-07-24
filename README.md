@@ -8,6 +8,9 @@
 - These explanations should be categorized into what we call "narrative mode" or "scientific mode"
 - There a certain language features that indicate which "mode" the student is in
 - In the end it would be valuable to know how long they are in each mode and how many switches occur
+- We consider this useful, because depending on the mode the student is mainly in, he or she might prefer different instructional and informational material
+- So far there are no consistent results for the benefit of using narrative texts in science education
+- We assume that students in the narrative mode prefer texts with a narrative structure and students in the scientific mode prefer scientific texts
 
 *Theoretical Background*
 
