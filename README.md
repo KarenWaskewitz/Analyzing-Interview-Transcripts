@@ -44,7 +44,7 @@ Steps before running the code:
 
 -> import the following modules: pandas, openpyxl, tqdm, requests (the first two to process the excel file, the second one to show progress of the analysis, the last one to allow communication between ollama and python)
 
-- for the chatgpt code: import the openai module
+- for the chatgpt code: import the openai module, results reported in "students_gpt_analysis_results.xlsx" and "students_gpt_summary_percentages.xlsx"
 - for the llama code: install Ollama, then in the termial give the two commands: ollama pull llama3, serve ollama
 
 
