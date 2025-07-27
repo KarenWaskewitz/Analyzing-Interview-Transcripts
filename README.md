@@ -36,6 +36,16 @@ In this exploratory study students were interviewed about the causes and effects
 I tried 4 different codes. One is scanning the transcripts for words that were pre-defined as narrative or scientific. The second one doing basically the same, but based on the different word use due to the different semantics like active voice in the narrative mode in comparison to passive voice in the scientific mode. The results were not very good, because when a student uses a word in plural or in a slightly different expression, the code cannot identify the word and misses matches for each mode. That's why I tried to come up with a different code that integrates a large langual model (here chat gpt, and the open source version Ollama).
 
 
+*How to run the code*
+
+There are 4 versions of the code. Each code can be run on an editor like pycharm, the excel file to be analysed is called "students_transcript.xlsx". It contains the utterances of two student ב and ג. So the code and this excel file need to be in one folder and except for the chatgpt code one only has to press run. For the chatgpt code it is necessary to paste the personal api for chat gpt.
+Steps before running the code: 
+-> import the following modules: pandas, openpyxl, tqdm, requests (the first two to process the excel file, the second one to show progress of the analysis, the last one to allow communication between ollama and python)
+
+- for the chatgpt code: import the openai module
+- for the llama code: install Ollama, then in the termial give the two commands: ollama pull llama3, serve ollama
+
+
  *Data Source*
  1. The transcript contains dialogues between a pair of students and the interviews of the group with the researcher.
  3. The data are confidential so I need to make sure it's anonymized
