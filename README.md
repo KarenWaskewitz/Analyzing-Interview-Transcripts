@@ -33,7 +33,7 @@ In this exploratory study students were interviewed about the causes and effects
 | Metaphors | Based on embodied experiences "It's like when we drink cola, we don't need the gas. So the bacteria doesn't need the gas and it gets out."| Structural metaphors "The light is reflected back by the greenhouse gases like a mirror."| 
 
 *Procedure*
-I tried 4 different codes. One is scanning the transcripts for words that were pre-defined as narrative or scientific. The second one doing basically the same, but based on the different word use due to the different semantics like active voice in the narrative mode in comparison to passive voice in the scientific mode. The results were not very good, because when a student uses a word in plural or in a slightly different expression, the code cannot identify the word and misses matches for each mode. That's why I tried to come up with a different code that integrates a large langual model (here chat gpt).
+I tried 4 different codes. One is scanning the transcripts for words that were pre-defined as narrative or scientific. The second one doing basically the same, but based on the different word use due to the different semantics like active voice in the narrative mode in comparison to passive voice in the scientific mode. The results were not very good, because when a student uses a word in plural or in a slightly different expression, the code cannot identify the word and misses matches for each mode. That's why I tried to come up with a different code that integrates a large langual model (here chat gpt, and a open source version Ollam).
 
 
  *Data Source*
