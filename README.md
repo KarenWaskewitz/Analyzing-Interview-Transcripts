@@ -38,7 +38,7 @@ I tried 4 different codes. One is scanning the transcripts for words that were p
 
 *How to run the code*
 
-There are 4 versions of the code. Each code can be run on an editor like pycharm, the excel file to be analysed is called "students_transcript.xlsx". It contains the utterances of two student ב and ג. So the code and this excel file need to be in one folder and except for the chatgpt code one only has to press run. For the chatgpt code it is necessary to paste the personal api for chat gpt.
+There are 4 versions of the code. Each code can be run on an editor like pycharm, the excel file to be analysed is called "students_transcript.xlsx". It contains the utterances of two students ב and ג. So the code and this excel file need to be in one folder and except for the chatgpt code one only has to press run. For the chatgpt code it is necessary to paste the personal api for chat gpt.
 Steps before running the code: 
 -> import the following modules: pandas, openpyxl, tqdm, requests (the first two to process the excel file, the second one to show progress of the analysis, the last one to allow communication between ollama and python)
 
