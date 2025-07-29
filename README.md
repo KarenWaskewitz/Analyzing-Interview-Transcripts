@@ -56,7 +56,7 @@ Two excel files:
 -> import the following libraries: pandas (command: pip install pandas), re (usually installed)
 
 
--> run the code on pycharm or another editor
+-> run the code on pycharm or another editor or give command directly in python terminal: python ModeDetectorWordsSemantics.py
 
 
  *Data Source*
