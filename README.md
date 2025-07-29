@@ -53,7 +53,7 @@ Two excel files:
 -> copy this respository: https://github.com/KarenWaskewitz/Analyzing-Interview-Transcripts 
 
 
--> import the following modules: pandas, openpyxl (to process the excel file)
+-> import the following libraries: pandas (command: pip install pandas), re (usually installed)
 
 
 -> run the code on pycharm or another editor
