@@ -38,7 +38,7 @@ The code is scanning the transcripts for words that were pre-defined as narrativ
 
 __Input File__
 
-Excel File with two columns:
+Excel File of the interview transcript with two columns:
 - one for the students utterances
 - one for the two students (here: ב and ג)
 
