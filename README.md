@@ -50,9 +50,13 @@ Two excel files:
 
 *How to run the code*
 
--> copy this respository
--> import the following modules: pandas, openpyxl, tqdm (the first two to process the excel file, the last one to show progress of the analysis)
--> run the code on pycharm
+-> copy this respository: https://github.com/KarenWaskewitz/Analyzing-Interview-Transcripts 
+
+
+-> import the following modules: pandas, openpyxl (to process the excel file)
+
+
+-> run the code on pycharm or another editor
 
 
  *Data Source*
