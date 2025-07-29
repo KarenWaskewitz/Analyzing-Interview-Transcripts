@@ -15,7 +15,7 @@
 *Theoretical Background*
 
 1. **The narrative mode** is active when individuals interpret events around them using a story-like pattern, in which characters and their actions shape the unfolding plot. It is characterized by agents that act in accordance with their intentions or motivation. If applied in a scientific context, misconception may arise. A Student in our interview said for example: "The bacteria eat the food, because they need food." The need for food is a human experience that was used to interpret an experiment that the students were conducting. 
-2. **The scientific mode** in comparison is based on on formal logical reasoning. It is also reflected in what we know today as the scientific method, where hypothesis are tested and accepted or rejected. It is applied when constructing arguments or theories. A student in the scientific mode would say "The bacteria process the food waste."
+2. **The scientific mode** in comparison is based on formal logical reasoning. It is also reflected in what we know today as the scientific method, where hypothesis are tested and accepted or rejected. It is applied when constructing arguments or theories. A student in the scientific mode would say "The bacteria process the food waste."
 
 *Method*
 
@@ -34,18 +34,25 @@ In this exploratory study students were interviewed about the causes and effects
 
 *Procedure*
 
-I tried 4 different codes. One is scanning the transcripts for words that were pre-defined as narrative or scientific. The second one doing basically the same, but based on the different word use due to the different semantics like active voice in the narrative mode in comparison to passive voice in the scientific mode. The results were not very good, because when a student uses a word in plural or in a slightly different expression, the code cannot identify the word and misses matches for each mode. That's why I tried to come up with a different code that integrates a large langual model (here chat gpt, and the open source version Ollama).
+The code is scanning the transcripts for words that were pre-defined as narrative or scientific. The second one doing basically the same, but based on the different word use due to the different semantics like active voice in the narrative mode in comparison to passive voice in the scientific mode. The results were not very good, because when a student uses a word in plural or in a slightly different expression, the code cannot identify the word and misses matches for each mode. That's why I tried to come up with a different code that integrates a large langual model (here chat gpt, and the open source version Ollama).
 
+<Input File>
+
+Excel File with two columns:
+- one for the students utterances
+- one for the two students (here: ב and ג)
+
+<Output>
+
+Two excel files: 
+- one with the summarized results of the percentage of narrative and scientific mode for each student
+- one with the classification for each mode
 
 *How to run the code*
 
-There are 4 versions of the code. Each code can be run on an editor like pycharm, the excel file to be analysed is called "students_transcript.xlsx". It contains the utterances of two students ב and ג. So the python file with the code and this excel file need to be in one folder and except for the chatgpt code one only has to press run. For the chatgpt code it is necessary to paste the personal api for chat gpt. The results will be shown in the terminal or in an automatically created excel file.
-Steps before running the code: 
-
--> import the following modules: pandas, openpyxl, tqdm, requests (the first two to process the excel file, the second one to show progress of the analysis, the last one to allow communication between ollama and python)
-
-- for the chatgpt code: import the openai module, results reported in "students_gpt_analysis_results.xlsx" and "students_gpt_summary_percentages.xlsx"
-- for the llama code: install Ollama, then in the termial give the two commands: ollama pull llama3, serve ollama, results reported in "students_llama_analysis_results.xlsx"
+-> copy this respository
+-> import the following modules: pandas, openpyxl, tqdm (the first two to process the excel file, the last one to show progress of the analysis)
+-> run the code on pycharm
 
 
  *Data Source*
