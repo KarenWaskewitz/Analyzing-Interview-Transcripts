@@ -39,7 +39,8 @@ In this exploratory study students were interviewed about the causes and effects
 
 *Procedure*
 
-The code is scanning the transcripts for words that were pre-defined as narrative or scientific. The second one doing basically the same, but based on the different word use due to the different semantics like active voice in the narrative mode in comparison to passive voice in the scientific mode. The results were not very good, because when a student uses a word in plural or in a slightly different expression, the code cannot identify the word and misses matches for each mode. That's why I tried to come up with a different code that integrates a large langual model (here chat gpt, and the open source version Ollama).
+The code is scanning the transcripts for words that were pre-defined as narrative or scientific. The second one doing basically the same, but based on the different word use due to the different semantics like active voice in the narrative mode in comparison to passive voice in the scientific mode. 
+
 
 __Input File__
 
